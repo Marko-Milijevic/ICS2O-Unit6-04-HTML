@@ -1,6 +1,7 @@
 let baseA = 0
 let baseB = 0
 let height = 0
+let area = 0
 
 document.getElementById('button').addEventListener('click', calculate)
 
